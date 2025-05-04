@@ -1,0 +1,6 @@
+@GWPApi_HostAddress = http://localhost:5291
+
+GET {{GWPApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

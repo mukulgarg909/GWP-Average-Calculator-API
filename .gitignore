@@ -1,0 +1,13 @@
+## Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+*.psess
+*.vsp
+*.vssscc
+*.sln.docstates
+*.ncrunchsolution
+*.ncrunchproject
