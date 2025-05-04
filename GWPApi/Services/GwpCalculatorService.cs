@@ -32,7 +32,6 @@ namespace GWPApi.Services
                 var lobData = countryData.FirstOrDefault(d =>
                                           d.LineOfBusiness.Equals(lob, StringComparison.OrdinalIgnoreCase));
 
-                // exclude missing years from calculation
                 if (lobData == null)
                 {
                     continue;
