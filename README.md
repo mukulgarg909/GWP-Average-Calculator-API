@@ -7,7 +7,6 @@ Visual Studio IDE
 ### Installation
 1. Clone the repository:
    git clone https://github.com/mukulgarg909/GWP-Average-Calculator-API.git
-   cd gwp-api
 2. dotnet restore
 3. dotnet run --project GwpApi/GwpApi.csproj
    (The API will be available at http://localhost:9091 (HTTP) or https://localhost:9092 (HTTPS))
